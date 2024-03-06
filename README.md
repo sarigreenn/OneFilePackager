@@ -1,6 +1,6 @@
 Project Title: Code Packager CLI Overview: Code Packager CLI is a small command-line tool that allows users to package multiple code files into a single file. It enables users to execute its functionality via command-line interface (CLI), simplifying the process of packaging code for distribution or archival purposes.
 
-Installation To install Code Packager CLI, follow these steps: Clone the repository from GitHub: git clone https://github.com/sarigreenn/Practicod1
+Installation To install Code Packager CLI, follow these steps: Clone the repository from GitHub: git clone https://github.com/sarigreenn/OneFilePackager
 
 Available Options -s: Sort by type or name. -n: Name of the source . -l: Languages options.
 
